@@ -40,8 +40,8 @@ As aulas a seguir formam a espinha dorsal do curso, cobrindo os tópicos essenci
 ### 📝 Aula 1: Introdução e Definições
 Esta aula define o que é um algoritmo e a diferença entre problema e instância. Apresenta a computabilidade como a área que estuda o que pode ser resolvido por um algoritmo. A aula também discute a definição formal de algoritmo e os exemplos de uso no dia a dia.
 
-👉 Acessar o conteúdo completo da Aula 1. <br>
-👉 Acessar o exercício da Aula 1.
+👉 [Acessar o conteúdo completo da Aula 1.](https://github.com/https-shini/CCA-UNICSUL/blob/main/slides/Aula01.pdf) <br>
+👉 [Acessar o arquivo de exercícios da Aula 1.](https://github.com/https-shini/CCA-UNICSUL/blob/main/slides/Aula01-Exercicio.pdf)
 
 ### 📝 Aula 2: Análise de Algoritmos
 A aula apresenta duas abordagens para analisar a eficiência de um algoritmo: a análise empírica (avalia um programa em execução) e a análise matemática (estudo formal do algoritmo, independente de hardware ou linguagem). A aula compara dois algoritmos para a sequência de Fibonacci, demonstrando a grande diferença de desempenho entre eles, um com tempo de execução linear (O(n)) e outro com tempo exponencial (O(2ⁿ)).
