@@ -66,5 +66,3 @@ A primeira aula da disciplina **Computabilidade e Complexidade de Algoritmos (CC
 - **Slides da Aula:** [Acessar o conteúdo completo da Aula 1.](https://github.com/https-shini/CCA-UNICSUL/blob/main/slides/Aula01.pdf)
 - **Slides dos Exercícios:** [Acessar o arquivo de exercícios da Aula 1.](https://github.com/https-shini/CCA-UNICSUL/blob/main/slides/Aula01-Exercicio.pdf)
 
-* **Slides da Aula:** [Acessar o conteúdo completo da Aula 1.](https-shini/cca-unicsul/CCA-UNICSUL-a46578065a193b80c0730df0ce982ccb54d183da/slides/Aula01.pdf)
-* **Slides da Aula:** [Acessar o conteúdo completo do Exercicio.](https://github.com/https-shini/CCA-UNICSUL/blob/main/slides/Aula01-Exercicio.pdf)
